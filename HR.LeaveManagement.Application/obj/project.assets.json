@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net9.0": {
       "AutoMapper/14.0.0": {
         "type": "package",
         "dependencies": {
@@ -102,7 +102,7 @@
       },
       "HR.LeaveManagement.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "AutoMapper": "14.0.0",
           "MediatR": "12.5.0"
@@ -279,7 +279,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net9.0": [
       "AutoMapper >= 14.0.0",
       "HR.LeaveManagement.Domain >= 1.0.0",
       "MediatR >= 12.5.0"
@@ -307,15 +307,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {
             "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
               "projectPath": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
@@ -336,8 +336,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",

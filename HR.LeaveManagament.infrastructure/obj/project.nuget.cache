@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1NSDnX+Zd8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagament.infrastructure\\HR.LeaveManagament.infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jloza\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-preview.6.25358.103\\microsoft.extensions.configuration.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "C:\\Users\\jloza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\jloza\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.6.25358.103\\microsoft.extensions.primitives.10.0.0-preview.6.25358.103.nupkg.sha512"
+  ],
+  "logs": []
+}

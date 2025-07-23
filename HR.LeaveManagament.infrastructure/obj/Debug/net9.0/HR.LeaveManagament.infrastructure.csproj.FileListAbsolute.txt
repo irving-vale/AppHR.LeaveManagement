@@ -1,0 +1,13 @@
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\bin\Debug\net9.0\HR.LeaveManagament.infrastructure.deps.json
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\bin\Debug\net9.0\HR.LeaveManagament.infrastructure.dll
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\bin\Debug\net9.0\HR.LeaveManagament.infrastructure.pdb
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.csproj.AssemblyReference.cache
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.AssemblyInfoInputs.cache
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.AssemblyInfo.cs
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.sourcelink.json
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.dll
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\refint\HR.LeaveManagament.infrastructure.dll
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\HR.LeaveManagament.infrastructure.pdb
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.infrastructure\obj\Debug\net9.0\ref\HR.LeaveManagament.infrastructure.dll
