@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E981E8AC-18F0-4249-8C30-691714EC5820}|HR.LeaveManagament.Persistence\\HR.LeaveManagament.Persistence.csproj|c:\\users\\jloza\\onedrive\\escritorio\\cursos\\.net 8\\cursoticketslimpio\\hr.leavemanagement.clean\\hr.leavemanagament.persistence\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E981E8AC-18F0-4249-8C30-691714EC5820}|HR.LeaveManagament.Persistence\\HR.LeaveManagament.Persistence.csproj|solutionrelative:hr.leavemanagament.persistence\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\jloza\\onedrive\\escritorio\\cursos\\.net 8\\cursoticketslimpio\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\jloza\\onedrive\\escritorio\\cursos\\.net 8\\cursoticketslimpio\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\entities\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\entities\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\jloza\\onedrive\\escritorio\\cursos\\.net 8\\cursoticketslimpio\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\jloza\\onedrive\\escritorio\\cursos\\.net 8\\cursoticketslimpio\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\entities\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF2A3-F797-4D8B-99F8-D4C0CECE69A3}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\entities\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HrDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagament.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagament.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeToolTip": "HR.LeaveManagament.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:37:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveType.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\Entities\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveType.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Domain\\Entities\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:34:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:34:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveAllocation.cs",
+              "DocumentMoniker": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveAllocation.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\Entities\\LeaveAllocation.cs",
+              "ToolTip": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\LeaveAllocation.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Domain\\Entities\\LeaveAllocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:33:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\jloza\\OneDrive\\Escritorio\\cursos\\.net 8\\CursoTicketsLimpio\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:33:59.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
