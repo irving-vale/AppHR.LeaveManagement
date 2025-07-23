@@ -10,6 +10,7 @@ C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveMana
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.LeaveManagament.Persistence.AssemblyInfoInputs.cache
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.LeaveManagament.Persistence.AssemblyInfo.cs
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.LeaveManagament.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.LeaveManagament.Persistence.sourcelink.json
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.Leave.376FD0FB.Up2Date
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\HR.LeaveManagament.Persistence.dll
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagament.Persistence\obj\Debug\net8.0\refint\HR.LeaveManagament.Persistence.dll

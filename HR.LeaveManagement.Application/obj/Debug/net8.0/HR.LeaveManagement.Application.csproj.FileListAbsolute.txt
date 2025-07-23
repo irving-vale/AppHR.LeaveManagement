@@ -8,6 +8,7 @@ C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveMana
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.sourcelink.json
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.Leave.CEB84392.Up2Date
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
 C:\Users\jloza\OneDrive\Escritorio\cursos\.net 8\CursoTicketsLimpio\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
